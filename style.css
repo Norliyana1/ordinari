@@ -1,0 +1,92 @@
+/* seksyen 1 */
+.seksyen1{
+    background-color:#ffffff;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-sticker{
+    color: gold;
+}
+
+.heading-makerz{
+    color: black;
+}
+
+/* seksyen2 */
+.seksyen2{
+    background-color:#ffddd2 ;
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+.icon{
+    color: gold;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+/* seksyen 3 */
+.seksyen3{
+    background-color:#ffffff;
+    padding: 7% 15% 7%;
+}
+
+/* seksyen 4 */
+.seksyen4{
+    background-color: #ffddd2;
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+/* footer */
+
+.footer{
+    padding: 2%;
+    text-align: center;
+}
+
+/* <!-- navbar start --> */
+.navbar-brand{
+    font-family:'Bebas Neue', cursive;;
+}
+
+/* <!-- seksyen 1 start--> */
+.heading-theordinary{
+    font-family:'Bebas Neue', cursive; ;
+}
+
+/* <!-- seksyen 1 start--> */
+.improve{
+    font-family:'Yanone Kaffeesatz', sans-serif; ;
+}
+
+/* <!-- seksyen 1 start--> */
+.buttonorder{
+    font-family:'Yanone Kaffeesatz', sans-serif; ;
+}
+
+/* <!-- seksyen 1 start--> */
+.buttonlist{
+    font-family:'Yanone Kaffeesatz', sans-serif; ;
+}
+
+/* <!-- seksyen 4 --> */
+.card-text1{
+    font-family:'Yanone Kaffeesatz', sans-serif; ;
+}
+
+/* <!-- seksyen 4 --> */
+.card-text2{
+    font-family:'Yanone Kaffeesatz', sans-serif; ;
+}
+
+/* <!-- seksyen 4 --> */
+.card-text3{
+    font-family:'Yanone Kaffeesatz', sans-serif; ;
+}
